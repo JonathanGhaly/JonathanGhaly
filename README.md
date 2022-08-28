@@ -4,8 +4,8 @@
 Studying Computer Sciecne & Artificial Intelligence at Cairo University.<br>
   Interested in Backend Development
   </p>
-  <p>
-  <a href="https://www.linkedin.com/in/jonathan-saad-247a04206/" rel="nofollow noreferrer">
+  <p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-saad-247a04206/" rel="nofollow noreferrer" style="background-color:#0077B5;">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
