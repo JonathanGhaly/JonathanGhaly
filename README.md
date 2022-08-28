@@ -1,8 +1,14 @@
-### Hi there 👋 I'm Jonaathan
+### Hi there 👋 I'm Jonathan
 <hr style="border:2px solid gray">
 <p align="center">
-Studying Computer Sciecne & Artificial Intelligence at Cairo University.
+Studying Computer Sciecne & Artificial Intelligence at Cairo University.<br>
+  Interested in Backend Development
   </p>
+  <p>
+  <a href="https://www.linkedin.com/in/jonathan-saad-247a04206/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
 <!--
 **JonathanGhaly/JonathanGhaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
