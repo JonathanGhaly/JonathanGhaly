@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jonathan
 <hr style="border:2px solid gray">
 <p align="center">
-Studying Computer Sciecne & Artificial Intelligence at Cairo University.<br>
+I'm Studying Computer Sciecne & Artificial Intelligence at @Cairo University.<br>
   Interested in Backend Development
   </p>
 <p align="center" dir="auto">
