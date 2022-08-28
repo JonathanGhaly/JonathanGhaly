@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Jonaathan
+- 🔭 I’m currently Student at Faculty of Computer and Artficial Intellgence Cairo University
 
 <!--
 **JonathanGhaly/JonathanGhaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
