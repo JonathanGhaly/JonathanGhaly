@@ -10,9 +10,7 @@ Studying Computer Sciecne & Artificial Intelligence at Cairo University.<br>
   </a>
 </p>
 
-<p align="center">
 ![](https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-</p>
 <!--
 **JonathanGhaly/JonathanGhaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
