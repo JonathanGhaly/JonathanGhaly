@@ -10,11 +10,8 @@ Studying Computer Sciecne & Artificial Intelligence at Cairo University.<br>
   </a>
 </p>
 
-### My Codeforces Stats
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=2)
-
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+![](https://raw.githubusercontent.com/JonathanGhaly/cfstats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JonathanGhaly/cfstats/main/output/light_card.svg)
 <!--
 **JonathanGhaly/JonathanGhaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
