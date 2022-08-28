@@ -12,10 +12,9 @@ Studying Computer Sciecne & Artificial Intelligence at Cairo University.<br>
     <img src="https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/max_rating.svg" alt="Linkedin Badge" data-canonical-src="https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/max_rating.svg" style="max-width: 100%;">
   </a>
 </p>
- ![](https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/max_rating.svg)
-
-![](https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonathanGhaly/cf-stats/main/output/light_card.svg#gh-dark-mode-only">
+</p>
 
 <!--
 **JonathanGhaly/JonathanGhaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
