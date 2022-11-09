@@ -2,7 +2,7 @@
 <hr style="border:2px solid gray">
 <p align="center">
   I'm Studying Computer Sciecne & Artificial Intelligence at <strong>Cairo University</strong>.<br>
-  Interested in Backend Development
+  Interested in Backend Development and HPC
   </p>
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/jonathan-saad-247a04206/" rel="nofollow">
