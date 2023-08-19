@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Jonathan
 <hr style="border:2px solid gray">
 <p align="center">
-  I'm Studying Computer Sciecne & Artificial Intelligence at <strong>Cairo University</strong>.<br>
-  Interested in Backend Development and HPC
+  I'm graduated from Computer Science & Artificial Intelligence at <strong>Cairo University</strong>.<br>
+  Interested in C/C++ Programming, HPC, Computational Science, and Software Engineering
   </p>
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/jonathan-saad-247a04206/" rel="nofollow">
